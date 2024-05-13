@@ -21,7 +21,7 @@ const App = () => {
       <Navbar/>
       <Routes> 
         <Route path='/drawings' element={<Drawings/>}/>
-        <Route path='/aiswariyak' element={<Hero/>}/>
+       
       </Routes>
       </Router>
       <Hero/>
